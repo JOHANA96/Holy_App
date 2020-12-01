@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Holy_app</string>
+    <string name="txtEmail">Digite el correo</string>
+    <string name="txtClave">Digite clave</string>
+    <string name="txtBoton">INICIO DE SESION</string>
+    <string name="txtOlvidoClave">Olvide mi clave</string>
+    <string name="txtRecuperarClave">Recuperalo aquí</string>
+    <string name="txtNotieneUsuario">No tengo usuario</string>
+    <string name="txtCrearUsuario">Crear nuevo usuario</string>
+    <string name="txtBotonCrear">CREAR</string>
+    <string name="tienda">Tienda</string>
+    <string name="perfil">Perfil</string>
+    <string name="mapa">Mapa</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title">Helateca</string>
+    <string name="descripcion">Deliciosos helados rellenos de fruta natural con deliciosos sabores</string>
+    <string name="ubicacion">MADE IN LABATECA</string>
+    <string name="txtNombre">nombre</string>
+    <string name="txtApellido">apellido</string>
+    <string name="txtContraseña">contraseña</string>
+    <string name="txtDocumento_de_identidad">Documento de Identidad</string>
+    <string name="txtTelefono">teléfono</string>
+    <string name="txtDireccion">dirección</string>
+    <string name="TituloCard">Eucaristía</string>
+    <string name="page_title">HOLY APP</string>
+    <string name="search">Buscar Contenedor Iglesia</string>
+    <string name="content_description_search">Permite hacer busquedas en general de la iglesia</string>
+</resources>
